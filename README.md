@@ -11,7 +11,7 @@
   
 - ❓ Ask me about sailing ⛵  
   
-- 📧 Reach me at [clement@le-goffic.fr](mailto:clement@le-goffic.fr?subject=Contact from Github)  
+- 📧 Reach me at clement@le-goffic.fr
   
 
 <br/>
