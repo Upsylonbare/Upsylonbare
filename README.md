@@ -6,15 +6,10 @@
 
 
 - 🔭 Previously worked at [Lacroix Impulse](https://www.lacroix-impulse.com/) on IoT project  
-  
-- 🌱 I’m currently learning web technologies and python in parallel of my embedded software courses  
-  
-- ❓ Ask me about sailing ⛵  
-  
-- 📧 Reach me at clement@le-goffic.fr
-  
-
-<br/>
+- 🔍 Learning Embedded Systems at [ESEO](https://eseo.fr/en/) 
+- 🌱 I’m currently learning web technologies and python
+-  ❓  Ask me anything about sailing ⛵  
+- 📧 Reach me at [clement@le-goffic.fr](mailto:clement@le-goffic.fr)
 
   ## My Skill Set  
 
@@ -34,8 +29,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>  
-<br/> 
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/clement-le-goffic" target="_blank">
@@ -51,22 +44,11 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Upsylonbare&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cl%C3%A9m3nt35&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Upsylonbare&&style=flat-square" align="center" />
-</div>  
-  
+</div>
 
-<br/> 
+
